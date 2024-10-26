@@ -134,3 +134,10 @@ dmypy.json
 # Version file needed for CI publishing
 VERSION
 
+#VS code
+goodwe.code-workspace
+
+#SC code
+requirements.txt
+quickstart.py
+safety_parameters.py
